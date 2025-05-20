@@ -8,3 +8,11 @@ Fetch de datos de la api DummyJSON con axios y visualizacion en patalla haciendo
 
 ## Imagen
 <img width="423" alt="ev1 pI" src="https://github.com/user-attachments/assets/24d8c253-a7f6-41d6-8cf9-0eef2a43f4cc" />
+
+# Evidencia 2
+Implementación de una barra de busquedas con actualización dinamica
+
+## Imagen
+![image](https://github.com/user-attachments/assets/c797468e-3c57-460b-a0aa-8849a8bfcc0e)
+
+
